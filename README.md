@@ -1,7 +1,7 @@
 # Taurus Manager
 
-[![Latest Version](https://img.shields.io/github/v/release/kiwfy/taurus-manager.svg?style=flat-square)](https://github.com/kiwfy/taurus-manager/releases)
-[![Build Status](https://img.shields.io/github/workflow/status/kiwfy/taurus-manager/CI?label=ci%20build&style=flat-square)](https://github.com/kiwfy/taurus-manager/actions?query=workflow%3ACI)
+[![Latest Version](https://img.shields.io/github/v/release/kiwfy/taurus-manager-arena.svg?style=flat-square)](https://github.com/kiwfy/taurus-manager-arena/releases)
+[![Build Status](https://img.shields.io/github/workflow/status/kiwfy/taurus-manager-arena/CI?label=ci%20build&style=flat-square)](https://github.com/kiwfy/taurus-manager-arena/actions?query=workflow%3ACI)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 An intuitive Web GUI for [Taurus](https://github.com/leodisarli/disarli-taurus). Built on Express so you can run standalone, or mounted in another app as middleware.
